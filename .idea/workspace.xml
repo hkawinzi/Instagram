@@ -2,12 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fda9bfba-c97f-4cf7-b4c1-9718b18107a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/migrations/0002_auto_20200715_2148.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/dashboard.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/registration/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/registration/login_ac.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/registration/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/instagram/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/templates/registration/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/registration/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/templates/registration/password_reset_confirm.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/registration/password_reset_confirm.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/templates/registration/password_reset_done.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/registration/password_reset_done.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/templates/registration/password_reset_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/registration/password_reset_form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instagram/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/instagram/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instagram/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/instagram/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,10 +67,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="676" y="201" width="680" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594623803817">
+    <state x="676" y="201" width="680" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594833782778">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="676" y="201" width="680" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1594623803817" />
+    <state x="676" y="201" width="680" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1594833782778" />
     <state x="719" y="134" width="624" height="526" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1594703266371">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -67,9 +83,9 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="678" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1594746043414" />
-    <state x="326" y="97" width="672" height="678" key="search.everywhere.popup" timestamp="1594621262670">
+    <state x="326" y="97" width="672" height="678" key="search.everywhere.popup" timestamp="1594841710514">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="326" y="97" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1594621262670" />
+    <state x="326" y="97" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1594841710514" />
   </component>
 </project>
