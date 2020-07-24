@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fda9bfba-c97f-4cf7-b4c1-9718b18107a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/migrations/0002_auto_20200715_2148.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/templates/dashboard.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/templates/registration/login.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/templates/registration/login_ac.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/templates/registration/logout.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/iphone.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phone.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/templates" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/home.html" afterDir="false" />
@@ -19,10 +16,7 @@
       <change beforePath="$PROJECT_DIR$/app/templates/registration/password_reset_confirm.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/registration/password_reset_confirm.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/templates/registration/password_reset_done.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/registration/password_reset_done.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/templates/registration/password_reset_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/registration/password_reset_form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instagram/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/instagram/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instagram/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/instagram/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +61,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="556" y="59" width="800" height="684" key="#Notifications" timestamp="1595595729976">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="556" y="59" width="800" height="684" key="#Notifications/72.27.1294.741@72.27.1294.741" timestamp="1595595729976" />
     <state x="676" y="201" width="680" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594833782778">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -75,14 +73,27 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="719" y="134" width="624" height="526" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/67.27.1299.741@67.27.1299.741" timestamp="1594703266371" />
+    <state x="325" y="27" width="777" height="741" key="CommitChangelistDialog2" timestamp="1595600502277">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="325" y="27" width="777" height="741" key="CommitChangelistDialog2/72.27.1294.741@72.27.1294.741" timestamp="1595600502277" />
+    <state x="191" y="86" width="1035" height="629" key="DiffContextDialog" timestamp="1595600494793">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="191" y="86" width="1035" height="629" key="DiffContextDialog/72.27.1294.741@72.27.1294.741" timestamp="1595600494793" />
     <state x="344" y="31" key="SettingsEditor" timestamp="1594718272151">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="344" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1594718272151" />
-    <state x="678" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1594746043414">
-      <screen x="67" y="27" width="1299" height="741" />
+    <state width="513" height="446" key="SwitcherDM" timestamp="1595600368277">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="513" height="446" key="SwitcherDM/72.27.1294.741@72.27.1294.741" timestamp="1595600368277" />
+    <state x="678" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1595593540061">
+      <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="678" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1594746043414" />
+    <state x="678" y="224" key="com.intellij.ide.util.TipDialog/72.27.1294.741@72.27.1294.741" timestamp="1595593540061" />
     <state x="326" y="97" width="672" height="678" key="search.everywhere.popup" timestamp="1594841710514">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
